@@ -1,0 +1,9 @@
+build/
+devel/
+results/
+.vscide/
+
+*.bag
+*.pcd
+*.bag
+

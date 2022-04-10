@@ -1,0 +1,3 @@
+/cv/projects/metro/viewer/builds/CMakeFiles/rebuild_cache.dir
+/cv/projects/metro/viewer/builds/CMakeFiles/cloud_viewer.dir
+/cv/projects/metro/viewer/builds/CMakeFiles/edit_cache.dir

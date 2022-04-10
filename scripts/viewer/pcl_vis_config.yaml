@@ -1,0 +1,5 @@
+# only support string value
+
+filter_config:
+	source_cloud_path: "/data/scritps/data/GlobalMap.pcd"
+	output_cloud_path: "/data/scritps/data/filteredGlobalMap.pcd"
